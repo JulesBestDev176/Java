@@ -1,0 +1,8 @@
+
+’
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôİÕıÿÿÿÿJ$f1bccb1b-f62c-4abe-a48f-7acfdb442be5
+’
+java:S1450"QRemove the "rs" field and declare it as a local variable in the relevant methods.(‰ÚèüÿÿÿÿJ$358cc4fe-60d6-4a53-8730-3ce8283f1b28
+w	java:S125"<This block of commented-out lines of code should be removed.(ÆúÿàJ$282f16ec-3e06-48d3-b2fd-67e0f23e971d
+j
+java:S2115")Add password protection to this database.(’àŒµüÿÿÿÿJ$9dc2f579-6134-4c47-8755-3e0d3706a371
